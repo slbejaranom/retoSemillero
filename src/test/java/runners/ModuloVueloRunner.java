@@ -11,5 +11,5 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 		, glue = {"definitions"} 
 		)
 public class ModuloVueloRunner {
-
+	
 }
